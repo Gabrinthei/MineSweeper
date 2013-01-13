@@ -1,0 +1,21 @@
+#BlueJ package file
+package.editor.height=348
+package.editor.width=506
+package.editor.x=257
+package.editor.y=104
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=702
+target1.editor.width=700
+target1.editor.x=1055
+target1.editor.y=57
+target1.height=50
+target1.name=minesweeper
+target1.naviview.expanded=false
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=100
+target1.x=110
+target1.y=70
